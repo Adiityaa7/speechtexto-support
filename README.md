@@ -1,9 +1,11 @@
 # speechTexto support
 
-Private source repository for the public support website. Contains website files only; no macOS app source, binaries, or model.
+Setup, troubleshooting and privacy pages for speechTexto on macOS.
 
-Website: https://speechtexto-support.adityaa7.chatgpt.site/
+Website: https://adiityaa7.github.io/speechtexto-support/
 
 Support: adityapatil206999@gmail.com
 
-Hosting: Sites. Publish the static pages from the local speechtexto-site checkout; GitHub Pages is disabled for this private repository on GitHub Free.
+This repository contains only the static support website. It contains no macOS application source, model, binaries, credentials or customer data.
+
+Publish main from the repository root using GitHub Pages. A private repository requires GitHub Pro; GitHub Free requires a public website repository.
